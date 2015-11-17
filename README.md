@@ -39,7 +39,7 @@ npm install --save-dev superfly-css-task-test
 
 Import the module using `@import <module_name>`.  For example:
 ```css
-@import superfly-css-colors;
+@import superfly-css-variables-colors;
 ```
 
 Then customize by overriding CSS variable.  Once your CSS file is complete, build by setting up your `gulpfile.js` and running:
