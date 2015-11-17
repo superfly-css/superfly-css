@@ -65,5 +65,5 @@ gulp build:css
 
 ### Foundation
 
-All superfly-css modules assume the utilization of the [superfly-css-foundation](https://github.com/superfly-css/superfly-css-foundation) module in order to keep the [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself).  Thus in order to guarantee consistent results always include the [superfly-css-foundation](https://github.com/superfly-css/superfly-css-foundation) module.
+All superfly-css modules assume the utilization of the [superfly-css-foundation](https://github.com/superfly-css/superfly-css-foundation) module in order to keep code [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself).  Thus in order to guarantee consistent results always include the [superfly-css-foundation](https://github.com/superfly-css/superfly-css-foundation) module.
 
