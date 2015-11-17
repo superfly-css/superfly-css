@@ -20,10 +20,10 @@ The aim of [superfly-css](https://github.com/superfly-css/superfly-css) is to ma
 
 ### CSS Modules
 
-The **superfly-css** css modules can be installed via NPM.  For example install the color module as a runtime dependency by running:
+The **superfly-css** css modules can be installed via NPM.  For example install the color module as a `dev` dependency by running:
 
 ```console
-npm install --save superfly-css-colors
+npm install --save-dev superfly-css-variables-colors
 ```  
 
 ### Gulp Build Tasks
