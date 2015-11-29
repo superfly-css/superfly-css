@@ -42,7 +42,7 @@ Import the module using `@import <module_name>`.  For example:
 @import superfly-css-variables-colors;
 ```
 
-Then customize by overriding CSS variable.  Once your CSS file is complete, build by setting up your `gulpfile.js` and running:
+Then customize by overriding CSS variables and/or extending the CSS.  Once your CSS file is complete, build by setting up your `gulpfile.js` and running:
 
 ```console
 gulp build:css
