@@ -55,7 +55,7 @@ Once the task is NPM installed require it in the `gulpfile.js` file like this:
 
 For example:
 ```js
-require(superfly-css-task-build);
+require('superfly-css-task-build');
 ```
 
 Your css can now be built by running:
