@@ -28,7 +28,7 @@ npm install --save-dev superfly-css-variables-colors
 
 ### Gulp Build Tasks
 
-The **superfly-css** [Gulp](http://gulpjs.com) tasks can be installed via NPM.  To install the `superfly-css-task-test` gulp task as a development dependency run:
+The **superfly-css** [Gulp](http://gulpjs.com) tasks can be installed via NPM.  To install the [`superfly-css-task-test`](https://github.com/superfly-css/superfly-css-task-test) gulp task as a development dependency run:
 ```console
 npm install --save-dev superfly-css-task-test
 ```
