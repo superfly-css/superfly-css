@@ -6,7 +6,7 @@ Modularized and responsive CSS components, utilities, typography, their foundati
 
 The aim of [superfly-css](https://github.com/superfly-css/superfly-css) is to maximize designer and developer productivity by providing:
 - A robust CSS foundation / base
-- Small focused CSS modules that are easily customizable and adhere to a [Module philosophy](https://github.com/substack/browserify-handbook#module-philosophy), and are free of [side effects](https://philipwalton.com/articles/side-effects-in-css/)
+- Small focused CSS modules that are easily customizable, adhere to a [Module philosophy](https://github.com/substack/browserify-handbook#module-philosophy), and are free of [side effects](https://philipwalton.com/articles/side-effects-in-css/)
 - Dependency management for CSS modules and build tools
 - Test cases clearly illustrating how to utilize the css module features and how to got about customization
 - The ability to incorporate future CSS specification features, such as variables, now using [PostCSS](https://github.com/postcss/postcss).
