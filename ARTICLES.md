@@ -1,6 +1,6 @@
 # Articles
 
-Superfly-CSS tries to adhere to design principles and encapsulate recommended tooling from these articles:
+Superfly-CSS is inspired by design principles and encapsulate recommended tooling from these articles:
 
 - [Extending Styles](https://philipwalton.com/articles/extending-styles/)
 - [CSS Architecture](https://philipwalton.com/articles/css-architecture/)
