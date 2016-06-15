@@ -1,6 +1,6 @@
 # superfly-css
 
-Modularized and responsive CSS components, utilities, typography, their foundation, and corresponding structural, build, and test methodology.
+Modularized, composable, and responsive CSS components, utilities, typography, their foundation, and corresponding structural, build, and test methodology.
 
 ## Objectives
 
