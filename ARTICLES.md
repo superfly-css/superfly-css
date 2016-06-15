@@ -1,7 +1,7 @@
 # Articles
 
 Superfly-CSS is inspired by design principles and encapsulate recommended tooling from these articles:
-
+- [Dynamic Selectors](https://philipwalton.com/articles/dynamic-selectors/)
 - [Extending Styles](https://philipwalton.com/articles/extending-styles/)
 - [CSS Architecture](https://philipwalton.com/articles/css-architecture/)
 - [Side Effects in CSS](https://philipwalton.com/articles/side-effects-in-css/)
