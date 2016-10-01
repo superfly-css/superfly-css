@@ -1,6 +1,6 @@
 # superfly-css
 
-Modularized, [composable](https://en.wikipedia.org/wiki/Composability#System_Design), and responsive CSS components, utilities, typography, their foundation, and corresponding structural, build, and test methodology.
+Modularized, [composable](https://en.wikipedia.org/wiki/Composability#System_Design), and responsive CSS variables, components, utilities, typography, their foundation, and corresponding structural, build, and test methodology.
 
 ## Objectives
 
