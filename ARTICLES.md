@@ -8,3 +8,4 @@ Superfly-CSS is inspired by design principles in and encapsulates recommended to
 - [Margins and Composability in CSS](http://giuseppegurgone.com/margins-and-composability-in-css)
 - [Solved By Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 - [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+- [BEM 101](https://css-tricks.com/bem-101/)
