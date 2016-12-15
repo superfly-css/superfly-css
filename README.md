@@ -5,7 +5,7 @@ Modularized, [composable](https://en.wikipedia.org/wiki/Composability#System_Des
 ## Objectives
 
 The aim of [superfly-css](https://github.com/superfly-css/superfly-css) is to maximize designer and developer productivity, cross eco system utilization, and to minimize maintenance effort by providing:
-- [SUIT CSS Component and Utility Naming Conventions](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md) that provide clarity, transparency, simplicity, and consistency to the CSS markup and the corresponding end result.  
+- [SUIT CSS Component and Utility Naming Conventions](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md) that provide predictability, clarity, transparency, simplicity, and consistency to the CSS markup and the corresponding end result.  
 - A la carte flexibility.  Use only the parts that you want to use.
 - A robust CSS foundation / base
 - Small focused CSS modules that are easily customizable, adhere to a [Module philosophy](https://github.com/substack/browserify-handbook#module-philosophy), and are free of [side effects](https://philipwalton.com/articles/side-effects-in-css/) and [naming collisions](https://philipwalton.com/articles/side-effects-in-css/) 
