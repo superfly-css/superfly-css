@@ -1,6 +1,6 @@
 # superfly-css
 
-Modularized, [composable](https://en.wikipedia.org/wiki/Composability#System_Design), and responsive CSS variables, components, utilities, typography, their foundation, and corresponding structural, build, and test methodology designed to be forward compatible with [custom elements](https://developers.google.com/web/fundamentals/getting-started/primers/customelements) and [web components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements).
+Modularized, [composable](https://en.wikipedia.org/wiki/Composability#System_Design), and responsive CSS variables, components, utilities, typography, their foundation, and corresponding structural, build, and test methodology designed to be forward compatible with [custom elements / web components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements).
 
 ## Objectives
 
