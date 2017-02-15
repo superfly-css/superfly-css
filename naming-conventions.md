@@ -12,7 +12,7 @@
 .fs-Button {} /* Component */
 .fs-Button_price {} /* Descendant */
 .fs-Button--default {} /* Modifier */
-.fs-Button--default.onHover {} /* Hover state */
+.fs-Button--default.onDisabled {} /* Disabled state */
 ```
 ## Component Variable Names
 
