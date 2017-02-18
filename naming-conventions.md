@@ -4,7 +4,7 @@
 
 ### Syntax
 
-`.[namespace-]ComponentName[_descendant|--modifier][.onState]`
+`.[namespace-]ComponentName[_descendant|--modifier][_onState]`
 
 ### Examples
 
@@ -12,13 +12,13 @@
 .fs-Button {} /* Component */
 .fs-Button_price {} /* Descendant */
 .fs-Button--default {} /* Modifier */
-.fs-Button--default.onDisabled {} /* Disabled state */
+.fs-Button--default_onDisabled {} /* Disabled state */
 ```
 ## Component Variable Names
 
 ### Syntax
 
-`--[namespace-]ComponentName[_descendant|--modifier][.onState]-(cssProperty|variableName)`
+`--[namespace-]ComponentName[_descendant|--modifier][_onState]-(cssProperty|variableName)`
 
 ### Examples
 
@@ -27,7 +27,7 @@
 --fs-Button-border-color: current-color; /* Use the text color for the border */
 --fs-Button_price-text-color: light-gray; /* Text color for the price descendant */
 --fs-Button--default-background-color: red; /* Modifier */
---fs-Button--default.onDisabled-opacity /* Disabled button opacity setting */
+--fs-Button--default_onDisabled-opacity /* Disabled button opacity setting */
 ```
 ## Utility Names
 
