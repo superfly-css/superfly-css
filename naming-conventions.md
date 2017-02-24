@@ -33,7 +33,15 @@
 
 ### Syntax
 
-`u-[xs-|sm-|md-|lg-|xl-]utilityName`
+`u-[media-type-]utilityName`
+
+Media type values supported are:
+- print
+- xs
+- sm
+- md
+- lg
+- xl
 
 ### Examples
 
