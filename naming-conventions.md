@@ -18,7 +18,7 @@
 
 ### Syntax
 
-`--[namespace-]ComponentName[_descendant|--modifier][_onState]-(cssProperty|variableName)`
+`--[namespace-]ComponentName[_descendant|--modifier][_onState]-(css-property|variable-name)`
 
 ### Examples
 
@@ -33,7 +33,7 @@
 
 ### Syntax
 
-`u-[media-type-]utilityName`
+`u-[media-type-]utility-name`
 
 Media type values supported are:
 - print
@@ -50,7 +50,7 @@ Media type values supported are:
   display: flex !important;
 }
 
-.u-flexInline {
+.u-flex-inline {
   display: inline-flex !important;
 }
 ```
