@@ -4,7 +4,7 @@
 
 ### Syntax
 
-`.[namespace-]ComponentName[_descendant|--modifier][_onState]`
+`.[namespace-]ComponentName[_descendant|--modifier][.onState]`
 
 ### Examples
 
@@ -12,7 +12,7 @@
 .fs-Button {} /* Component */
 .fs-Button_price {} /* Descendant */
 .fs-Button--default {} /* Modifier */
-.fs-Button--default_onDisabled {} /* Disabled state */
+.fs-Button--default.onDisabled {} /* Disabled state */
 ```
 ## Component Variable Names
 
