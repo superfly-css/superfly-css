@@ -1,6 +1,6 @@
 # Deprecated
 
-All modules are being moved to [superflycss](https://github.com/superflycss/) and will be publised under the `@superflycss` organization on NPM.
+All modules are being moved to [superflycss](https://github.com/superflycss/) and will be published under the `@superflycss` organization on NPM.
 
 # superfly-css
 
